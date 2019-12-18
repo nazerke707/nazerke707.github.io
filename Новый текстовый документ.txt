@@ -1,0 +1,40 @@
+<head>
+<meta charset="UTF-8">
+<title>Narikbai Nazerke </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Overpass:300,400,600,800'>
+<link rel="stylesheet" href="css/style.css"> 
+</head>
+<body background="bg.jpg">
+<div class="tabset">
+<!-- Tab 1 -->
+<input type="radio" name="tabset" id="tab1" aria-controls="marzen" checked>
+<label for="tab1">Menu</label>
+<!-- Tab 2 -->
+<input type="radio" name="tabset" id="tab2" aria-controls="rauchbier">
+<li><a href="игра/index.html" accesskey="4" title="">game</a> </li>
+<!-- Tab 3 -->
+<input type="radio" name="tabset" id="tab3" aria-controls="dunkles">
+<label for="tab3">About</label>
+<div class="tab-panels">
+<section id="marzen" class="tab-panel">
+<h2>Ою орнек</h2>
+<p><img src="2.png" height="500" width="400" align="top"></p>
+<p>Қазақ оюы, қазақтың ою-өрнегі — үй-жиһаздарын, сәндік, тұрмыстық бұйымдар мен киімдерді нақыштап безендіруге қолданылатын өрнектер. Жаппай дамыған кезеңінде (19 ғасырдан кейін) қазақтардың үй жиһаздарын әшекейлеуге кең көлемде қолданған ою-өрнектерді, негізінен: зооморфтық, өсімдік сипатты, геометриялық, космогониялық түрлерге жіктеуге болады. Олардың ішінде жануарлардың сыртқы пішініне, мүйізіне, тырнағына, мойнына, табанына, т.б. мүшесіне ұқсас ою-өрнектер халық арасына (зооморфтық түр) кең тараған. Зооморфтық ою-өрнек кебеже, жүкаяқ, әбдіре, асадал сияқты тұрмыстық бұйымдар әшекейінде жиі кездеседі. Аталған ою-өрнектер кебеже бүйірінде, көбінесе, тігінен бедерленіп, бос жерлерін толықтырған, ал төсектің жан ағашы белгілі бір ырғақпен түгел дерлік өрнектелген. Кейде оларды өсімдік сипатты өрнектермен сабақтастырып, жарасымды тұтас композиция құраған.</p>
+</section>
+<section id="rauchbier" class="tab-panel">
+<h2>Game: Eltanba Tu</h2>
+<p><strong>:</strong>  </p>
+<p><strong>:</strong> </p>
+</section>
+<section id="dunkles" class="tab-panel">
+<h2></h2>
+<p><img src="1.png" height="500" width="400" align="top"></p>
+<p>Менің атым Нәрікбай Назерке. Астана қаласында Қазақ Технологиялық және Бизнес универсетін ақпараттық технологиялар факультетінің "ақпараттық жүйелер тобында" оқимын. </p>
+<p><img src="1.jpg"   height="200" width="250" align="left"></P> <p><img src="2.jpg"   height="200" width="250" align="left"></P>
+<p><img src="3.jpg"   height="200" width="250" align="left"></P> <p><img src="4.jpg"   height="200" width="250" align="left"></P>
+</section>
+</div> 
+</div>  
+</body>
+</html>
